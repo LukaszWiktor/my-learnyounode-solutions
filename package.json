@@ -1,0 +1,10 @@
+{
+  "name": "my-learnyounode-solutions",
+  "version": "0.0.1",
+
+  "dependencies" : {
+    "bl" : "*",
+    "strftime" : "*",
+    "through2-map" : "*"
+  }
+}
